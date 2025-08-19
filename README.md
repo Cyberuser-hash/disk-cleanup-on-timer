@@ -4,6 +4,7 @@
 ВАЖНО!!!!!!!!!!!!!!
 ЗАПУСКАТЬ С ПРАВАМИ АДМИНИСТРАТОРА!!!
 Если требуется скрытность то программа будет работать если заблокировать экран компьютера
+
 Установка:
 git clone https://github.com/Cyberuser-hash/disk-cleanup-on-timer
 cd disk-cleanup-on-timer
