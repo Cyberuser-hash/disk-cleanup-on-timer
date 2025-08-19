@@ -7,6 +7,9 @@
 
 Установка:
 git clone https://github.com/Cyberuser-hash/disk-cleanup-on-timer
+
 cd disk-cleanup-on-timer
+
 python3 reseter.py
+
 ПОВТОРЯЮСЬ !!!!!С ПРАВАМИ АДМИНИСТРАТОРА!!!!!!!
